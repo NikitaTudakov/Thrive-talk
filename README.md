@@ -7,4 +7,4 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 - Tablet 1024
 - Mobile (> 320px)
 
-[Preview](https://NikitaTudakov.github.io/Thrive_talk/).
+[Preview](https://NikitaTudakov.github.io/Thrive-talk/).
